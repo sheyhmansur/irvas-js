@@ -12,4 +12,4 @@
 - ## Инструменты 
 - Gulp, SCSS
 
-[<h3> DEMO </h3>](https://sheyhmansur.github.io/safort/)
+[<h3> DEMO </h3>](https://sheyhmansur.github.io/irvas-js/)
